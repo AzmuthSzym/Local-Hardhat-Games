@@ -1,3 +1,6 @@
+# MY SOLUTIONS
+1. For the first exercise you just need to paste the address of the deployed contract.
+
 # Local Hardhat Games
 
 Let's work on our solidity skills while deploying against a local hardhat blockchain! Inside this repository you'll find 5 smart contracts labled `Game1` to `Game5`. The goal of each smart contract is to:
